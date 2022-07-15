@@ -116,7 +116,7 @@ def login():
 			login()
 
 def banner():CH0UDH4RY
-	logo()CH0UDH4RY
+	logo()BRAND
 def hasil(ok,cp):
 	if len(ok) != 0 or len(cp) != 0:
 		CH0UDH4RY('\n\n\033[0m The Prosess Done...')
